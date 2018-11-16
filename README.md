@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Analisa Lee
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project added images to the screen, allowed the buttons to function, and worked with benefits of the DOM.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://analisalee.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the benefits of the DOM, such as, manipulating the tree and nodes.
+2. I learned that everything on a page is a node which is equivalent to an object.
+3. I also learned that the traversal is the proximity to other nodes.
 
